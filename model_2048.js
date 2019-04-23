@@ -1,5 +1,6 @@
 
 
+
 model2048 = {
   side: 4,
   numSquares: 16,
@@ -66,4 +67,4 @@ model2048 = {
 
 };
 
-
+export default model2048;

@@ -1,5 +1,8 @@
 
 
+import model2048 from "./model_2048.js"
+
+
 view2048 = {
 
   model: model2048,
